@@ -1,0 +1,217 @@
+.mySlides {display:none;}
+.logo
+{
+	height:70px; 
+	width:550px;
+}
+.cpy
+{
+    clear: both;height: 35px;font-size:20px;border:1px solid black;padding-top: 35px;font-family: Consolas;background-color: #ff3399;
+}
+a
+{
+	text-decoration: none;
+   
+}
+a:hover
+{
+	color: black;
+}
+.demo
+{
+	display: none;
+}
+.inquiry
+{
+	float: right; width:330px; 
+	
+	height: 400px;
+	margin-right: 300px;
+	font-family: Consolas;
+	border: 1px solid black;
+	
+}
+.inquiry form
+{
+	padding-left: 50px;
+	font-size: 22px;
+	line-height: 30px;
+    margin-top: 20px;
+}
+.inquiry form input:focus {
+    border: 2px solid #999999;
+}
+.inquiry form textarea:focus {
+    border: 2px solid #999999;
+}
+
+.inquiry form textarea {resize: none;}
+.inquiry form input,textarea  {width: 200px;}
+.inquiry form input[type=submit] {height: 35px;background-color: #bfbfbf;font-size: 18px;cursor: pointer;margin-top: 10px;}
+.login
+{
+	float: right; width:400px; 
+	margin-top: 35px;
+	border: 1px solid black;
+	margin-right: 300px;
+	font-family: Consolas;
+}
+.login form
+{
+	padding-left: 50px;
+	font-size: 20px;
+	line-height: 40px;	
+	width: 400px;
+
+}
+.login form input:focus {
+    border: 3px solid #999999;
+}
+.login form input {width: 180px;height: 20px;}
+.login form input[type=submit] {height: 35px;background-color: #bfbfbf;font-size: 18px;cursor: pointer;margin-top: 10px;width: 130px;}
+.reg
+{
+	float: right; width:370px; 
+	
+	
+	margin-right: 300px;
+	font-family: Consolas;
+	border: 2px solid black;
+	border-radius: 25px;
+	background-color: #ff668c;
+}
+.reg form
+{
+	padding-left: 40px;
+	font-size: 20px;
+	line-height: 35px;	
+	margin-top: 25px;
+}
+.reg form input:focus {
+    border: 2px solid #999999;
+}
+.reg form textarea:focus {
+    border: 2px solid #999999;
+}
+
+.reg form textarea {resize: none;}
+.reg form input,textarea  {width: 200px;}
+.reg form input {height: 20px;}
+.reg form input[type=submit] {height: 30px;background-color: #bfbfbf;font-size: 18px;cursor: pointer;margin-top: 10px;width: 100px;margin-left: 80px;}
+.formcss input:focus {
+    border: 2px solid #a6a6a6;
+}
+.formcss textarea:focus {
+    border: 2px solid #808080;
+}
+
+.formcss textarea {resize: none;}
+.formcss input,textarea  {width: 200px;}
+.formcss input {height: 20px;}
+.formcss input[type=submit] {height: 30px;background-color: #666666;color: white;font-size: 18px;cursor: pointer;margin-top: 20px;width: 100px;margin-left: 70px;}
+
+.course
+{
+	display: none;
+
+}
+.call
+{
+	display: none;
+}
+.course1
+
+{
+	float: right; width:370px; 
+	
+	margin-right: 250px;
+	font-family: Consolas;
+	border: 2px solid black;
+	border-radius: 25px;
+	background-color: #ff668c;
+}
+.abc
+{
+	float: left; width:250px; 
+	margin-top: 140px;
+	margin-left: 120px;
+	font-family: Consolas;
+	border: 2px solid black;
+	border-radius: 25px;
+	background-color: #ff668c;
+
+}
+.xyz
+{
+	float: right;
+	line-height: 25px;
+	font-family: Consolas;
+	
+	margin-top: 30px;
+	margin-right: 60px;
+	font-size: 18px;
+	width: 400px;
+	
+}
+.std
+{
+	
+padding-left: 10px;
+	float: left;
+	height: 40px;
+	margin-left: 60px;
+	padding-top: 10px;
+	width: 120px;
+}
+.admn
+{
+	border: 1px solid black;
+	border-radius: 10px;
+	font-family: Consolas;
+	line-height: 40px;
+	font-size: 20px;
+	width: 300px;
+    position: absolute;
+    z-index: 1;
+	
+	
+}
+.admn ul
+{
+	list-style-type: none;
+    
+}
+.stdln
+{
+    border: 1px solid black;
+	font-family: Consolas;
+	font-size: 18px;
+	width: 250px;
+	height: 80px;
+    line-height: 30px;
+	position: absolute;
+	border-radius: 10px;
+}
+.stdln ul
+{
+	list-style-type: none;
+    
+}
+
+.notify li
+{
+    font-family: Consolas;
+	line-height: 30px;
+	font-size: 20px;
+	
+}
+.studform
+{
+    border: 1px solid black;
+	font-family: Consolas;
+	font-size: 18px;
+	width: 230px;
+	height: 200px;
+    position: absolute;
+    border-radius: 10px;
+}
